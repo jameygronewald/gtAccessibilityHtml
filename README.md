@@ -12,7 +12,6 @@ Accessibility HTML is an edited version of Horieson's homepage that opens up the
 
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Demo Images](#Demo%20Images:)
 * [Credits](#Credits)
 * [License](#License)
 
