@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* HEADER STYLING */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +24,7 @@ header {
 #seo {
     color: #d9dcd6;
 }
-
+/* NAV STYLING IN HEADER */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,7 +41,7 @@ li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* GIVES COLOR TO NAV ELEMENTS */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,24 +50,14 @@ a {
 p {
     font-size: 16px;
 }
-
+/* STYLING FOR MAIN IMAGE */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     object-fit: cover;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* MAIN CONTENT STYLING */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,7 +83,17 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* FLOATS IMAGE TO LEFT OR RIGHT OF TEXT IN MAIN CONTENT SECTIONS */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* ASIDE STYLING */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,7 +106,7 @@ p {
     background-color: #2589bd;
     color: #ffffff;
 }
-
+/* ID TO MAINTAIN CONSISTENT MARGIN FOR "Lead Generation" <h3> */
 #lessMargin {
     margin: 0;
 }
@@ -122,7 +122,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* FOOTER STYLING */
 footer {
     padding: 30px;
     clear: both;
