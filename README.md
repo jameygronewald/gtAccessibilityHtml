@@ -32,13 +32,13 @@ Accessibility HTML is an edited version of Horieson's homepage that opens up the
 
 ### Demo Images: 
 
-![Homepage 1](demoimages/homepage1.png)
+![Homepage 1](./demoImages/homepage1.png)
 
-![Homepage 2](demoimages/homepage2.png)
+![Homepage 2](./demoImages/homepage2.png)
 
-![Homepage 3](demoimages/homepage3.png)
+![Homepage 3](./demoImages/homepage3.png)
 
-![Github Repository](demoimages/githubRepo.png)
+![Github Repository](./demoImages/githubRepo.png)
 
 ---
 
