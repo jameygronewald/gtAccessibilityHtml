@@ -28,7 +28,7 @@ Accessibility HTML is an edited version of Horieson's homepage that opens up the
 
 ## Usage
 
-* Visit the live site: [Accessibility HTML](https://jameygronewald.github.io/gtAccessibilityHtml/)
+* Visit the deployed app: [Accessibility HTML](https://jameygronewald.github.io/gtAccessibilityHtml/)
 
 * Visit Github to track changes that were made or to clone the repo: [Github Repo](https://github.com/jameygronewald/gtAccessibilityHtml)
 
